@@ -1,4 +1,4 @@
-John Conway's Game of Life ( C Language)
+# John Conway's Game of Life ( C Language)
 
 Description:
 This project implements a version of the famous "Game of Life" proposed by mathematician John Conway. The game is a simulation of a cellular automaton that follows simple rules but can generate complex and fascinating patterns.
